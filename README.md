@@ -60,7 +60,7 @@ security baked in. Currently building AI-powered SaaS at **Sevina Technologies**
 |---|---|:---:|
 | **[🤖 LLM Studio](https://github.com/mubin-attar-007/llm_studio)** | Multi-user, ChatGPT-style **AI chat SaaS** — auth, per-user tenancy, streaming, multi-LLM routing, Docker, CI | **[demo →](https://heisenbergblue-llm-studio.hf.space)** |
 | **[🗄️ DBWhisper](https://github.com/mubin-attar-007/dbwhisper)** | **NL→SQL agent** — LangGraph + pgvector retrieval + multi-LLM fallback + read-only safety | **[demo →](https://dbwhisper.vercel.app)** |
-| **[📈 TradePulse](https://github.com/mubin-attar-007/AI-Powered-Trading-System)** | **AI trading platform** — market data, strategy builder, event-driven backtester, AI copilot | **[demo →](https://ai-powered-trading-system.vercel.app)** |
+| **[📈 TradePulse](https://github.com/mubin-attar-007/tradepulse)** | **AI trading platform** — market data, strategy builder, event-driven backtester, AI copilot | **[demo →](https://ai-powered-trading-system.vercel.app)** |
 | **[👑 CrownWager](https://github.com/mubin-attar-007/crownwager)** | Sports-betting **analytics + ML predictions** — +EV bets, XGBoost model, arbitrage, Claude assistant | **[demo →](https://crownwager.vercel.app)** |
 
 ---
